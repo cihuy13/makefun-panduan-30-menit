@@ -1,5 +1,14 @@
 # Dari Nol ke Entry Pertama di make.fun dalam 30 Menit
 
+## TL;DR (English)
+1. Sign up: https://make.fun/r/g6ge6qw0 (code `g6ge6qw0`) — free, same account, same prizes.
+2. Pick a bounty with few entries and >12h left.
+3. Download its kit, read RULES.txt.
+4. New agent session in a fresh public repo → build.
+5. Bundle + submit → fix the verdict → claim USDC to your Solana wallet.
+
+Full 30-minute walkthrough in Indonesian below.
+
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/cihuy13/makefun-panduan-30-menit/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/cihuy13/makefun-panduan-30-menit/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
@@ -124,6 +133,8 @@ Perintah itu menilai entry-mu dengan data latihan dari kit, dengan cara yang sam
 
 ## 4. Suruh agenmu membangun (10 menit kerjamu)
 
+> **Belum daftar? Langkah 1 cuma 5 menit:** https://make.fun/r/g6ge6qw0 — kembali ke sini setelahnya.
+
 Ini bagian yang paling sering dilakukan terbalik: pemula membuka sesi agen lalu langsung menyuruhnya menulis kode. Urutan yang benar adalah baca dulu, bangun kemudian. Dan satu hal yang tidak bisa diperbaiki belakangan: **sesi agenmu harus dimulai setelah bounty dibuka.** Sesi yang dimulai sebelum pembukaan tidak bisa diikutkan, betapa pun bagus hasil kerjanya.
 
 1. **Buat repo GitHub publik yang baru**, clone di sebelah folder kit (perintah-perintah di sini menyebutnya `my-entry`), lalu buka sesi baru agenmu di dalamnya.
@@ -224,6 +235,29 @@ Bounty ini sendiri adalah permainan referral dalam ukuran penuh: entry dengan si
 
 Satu hal terakhir tentang referral yang wajib kamu pahami sebelum membagikan tautanmu ke mana-mana: referral terikat pada kode pertama yang dilihat browser pengunjung, dan sentuhan pertama itu menang selama 60 hari — tautan belakangan tidak menggantikannya. Orang yang pertama kali mengenal make.fun lewat tautanmu akan terhitung untukmu begitu mereka mendaftar dan ikut serta. Sebaliknya, orang yang sudah pernah membuka tautan orang lain tidak akan pindah ke tautanmu, seberapa keras pun kamu membagikannya.
 
+## Tiga kalimat untuk kamu kirim ke orang lain
+
+Pembaca yang membagikan panduan ini bernilai 2–5 signup; pembaca yang hanya membaca bernilai 0. Salin salah satu di bawah ini apa adanya, ganti tautannya dengan tautanmu sendiri:
+
+**WhatsApp / DM:**
+
+```text
+Mau coba ikut bounty AI tapi bingung mulai dari mana? Ini panduan 30 menit buat pemula, gratis: https://make.fun/r/g6ge6qw0
+```
+
+**X (quote-tweet):**
+
+```text
+Panduan pemula buat masuk make.fun dalam 30 menit, dari nol sampai entry pertama: https://make.fun/r/g6ge6qw0 #makefun
+```
+
+**Grup Discord / Telegram:**
+
+```text
+Buat yang penasaran sama make.fun tapi belum pernah ikut bounty: panduan ini nuntun dari nol ke entry pertama dalam 30 menit, gratis.
+https://make.fun/r/g6ge6qw0
+```
+
 ## Sebarkan dalam 10 menit pertama (ini yang menentukan skor)
 
 Panduan yang bagus tapi tidak dibaca tidak menghasilkan signup apa pun. Bounty ini tidak dinilai dari kualitas tulisanmu — skornya adalah jumlah manusia terverifikasi yang mendaftar lewat tautanmu. Jadi begitu panduanmu terbit, 10 menit pertamamu bukan untuk mengedit — tapi untuk menaruh tautanmu di depan manusia sungguhan. Dengan akun kecil pun ada caranya: balas akun besar, jangan menunggu orang datang.
@@ -283,6 +317,8 @@ Salin daftar ini, centang satu per satu, dan jangan kirim sebelum semuanya terce
 - [ ] About repo: website halaman bounty ini, topik `makefun`
 - [ ] `check` lokal lolos, bundle dibuat, secret scan bersih
 - [ ] Commit yang dikirim adalah commit yang sudah di-push
+
+> **Tutup hari ini, 21 November 2026, 17:30 WIB.** Kalau kamu membaca sampai sini dan belum punya akun, itu satu-satunya langkah yang tersisa: https://make.fun/r/g6ge6qw0
 
 ## Pertanyaan yang sering ditanyakan
 
