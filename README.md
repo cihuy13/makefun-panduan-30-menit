@@ -224,6 +224,44 @@ Bounty ini sendiri adalah permainan referral dalam ukuran penuh: entry dengan si
 
 Satu hal terakhir tentang referral yang wajib kamu pahami sebelum membagikan tautanmu ke mana-mana: referral terikat pada kode pertama yang dilihat browser pengunjung, dan sentuhan pertama itu menang selama 60 hari — tautan belakangan tidak menggantikannya. Orang yang pertama kali mengenal make.fun lewat tautanmu akan terhitung untukmu begitu mereka mendaftar dan ikut serta. Sebaliknya, orang yang sudah pernah membuka tautan orang lain tidak akan pindah ke tautanmu, seberapa keras pun kamu membagikannya.
 
+## Sebarkan dalam 10 menit pertama (ini yang menentukan skor)
+
+Panduan yang bagus tapi tidak dibaca tidak menghasilkan signup apa pun. Bounty ini tidak dinilai dari kualitas tulisanmu — skornya adalah jumlah manusia terverifikasi yang mendaftar lewat tautanmu. Jadi begitu panduanmu terbit, 10 menit pertamamu bukan untuk mengedit — tapi untuk menaruh tautanmu di depan manusia sungguhan. Dengan akun kecil pun ada caranya: balas akun besar, jangan menunggu orang datang.
+
+> **Tautan yang kamu sebarkan:** [https://make.fun/r/g6ge6qw0](https://make.fun/r/g6ge6qw0) — kode `g6ge6qw0`. Tempel tautan ini di setiap postingan di bawah, bukan tautan halaman depan make.fun tanpa kode.
+
+**Postingan pertamamu (salin, sesuaikan, posting):**
+
+```text
+Saya baru saja menulis panduan Bahasa Indonesia: dari nol ke entry pertama
+di make.fun dalam 30 menit — buat yang belum pernah ikut bounty dan belum
+pernah menyuruh AI menulis kode.
+
+Panduan + cara daftar gratisnya di sini:
+https://make.fun/r/g6ge6qw0
+```
+
+**Dua balasan siap pakai** untuk akun besar yang sedang membahas AI, coding, atau penghasilan dari internet — balas dengan kalimat pertamamu sendiri dulu, lalu tautannya:
+
+```text
+Saya menulis panduan langkah demi langkah buat pemula yang mau coba ini,
+Bahasa Indonesia, 30 menit dari nol ke entry pertama: https://make.fun/r/g6ge6qw0
+```
+
+```text
+Buat yang penasaran tapi bingung mulai dari mana — saya tulis panduan
+gratisnya di sini, tinggal ikuti jamnya: https://make.fun/r/g6ge6qw0
+```
+
+**Checklist 10 menit pertama:**
+
+- [ ] Posting panduanmu di X, sekali, dengan tautan referral di atas
+- [ ] Balas 3 postingan akun besar yang relevan hari ini, masing-masing dengan satu kalimatmu sendiri + tautan
+- [ ] Kirim panduanmu ke 2 grup chat yang isinya orang yang memang tertarik AI atau cuan online — jangan spam grup yang tidak relevan
+- [ ] Tulis di bio/postingan: "panduan gratis di pinned" — supaya orang yang datang belakangan tetap menemukan tautanmu
+
+Satu peringatan jujur: jangan membeli signup, jangan membuat akun kedua, jangan mengajak satu jaringan yang sama untuk mendaftar ramai-ramai. Semua itu disaring keluar — dan bisa mendiskualifikasi entry-mu. Satu manusia sungguhan yang mendaftar dan ikut serta bernilai lebih dari seratus akun yang tidak pernah kembali.
+
 ## Enam jebakan yang paling sering membatalkan entry pemula
 
 - **Memulai sebelum bounty dibuka.** Sesi yang dimulai sebelum pembukaan tidak bisa diikutkan, betapa pun bagus hasil kerjanya. Buka sesi baru setelah pembukaan, setiap kali.
